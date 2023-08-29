@@ -1,5 +1,5 @@
-# projects_from_studying
-# yandex_praktikum
+projects_from_studying
+yandex_praktikum
 
 Описание проектов
 
