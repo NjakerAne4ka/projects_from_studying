@@ -1,4 +1,5 @@
 # projects_from_studying
+# yandex_praktikum
 
 Описание проекта
 
